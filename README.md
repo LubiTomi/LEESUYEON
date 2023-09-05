@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suyeon%20Github!&fontSize=90)
 
 
-<span>Language</span> 
+<h3>📚 Tech Stack 📚</h3>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/java-1E8CBE?style=for-the-badge&logo=java&logoColor=white">
 
@@ -38,3 +38,8 @@ Tools
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 
+<div align=center>
+	<p>🏆 Baekjoon solved rank 🏆</p>
+	<a href="https://solved.ac/dusdus1000"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dusdus1000&theme=dark"/></a>
+	<img src="http://mazandi.herokuapp.com/api?handle=dusdus1000&theme=warm"/>
+</div>
