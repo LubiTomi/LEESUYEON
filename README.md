@@ -38,7 +38,9 @@ Tools
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 
-<div align=center>
+<br>
+<br>
+<div>
 	<p>🏆 Baekjoon solved rank 🏆</p>
 	<a href="https://solved.ac/dusdus1000"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dusdus1000&theme=dark"/></a>
 	<img src="http://mazandi.herokuapp.com/api?handle=dusdus1000&theme=warm"/>
