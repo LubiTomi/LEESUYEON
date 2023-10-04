@@ -52,7 +52,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+<!-- 	<p>🏆 Baekjoon solved rank 🏆</p>
 	<a href="https://solved.ac/dusdus1000"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dusdus1000&theme=dark"/></a>
-	<img src="http://mazandi.herokuapp.com/api?handle=dusdus1000&theme=warm"/>
+	<img src="http://mazandi.herokuapp.com/api?handle=dusdus1000&theme=warm"/> -->
 </div>
